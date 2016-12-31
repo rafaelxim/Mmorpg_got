@@ -1,5 +1,5 @@
-# mmorpg_got
-Jogo MMORPG da série Game of Thrones
-Utilizado como base para o aprendizado de Node.js, Express.js e MongoDB.
+## Game of Thrones MMORPG
 
-A aplicação não está hospedada, você pode baixar e rodar localmente.
+Jogo MMORPG da série Game of Thrones  
+Utilizado como base para o aprendizado de Node.js, Express.js e MongoDB.  
+A aplicação não está hospedada, você pode baixar e rodar localmente.  
